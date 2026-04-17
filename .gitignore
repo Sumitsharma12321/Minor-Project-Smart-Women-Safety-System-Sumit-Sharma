@@ -1,0 +1,22 @@
+# Node.js
+backend/node_modules/
+backend/.env
+backend/serviceAccountKey.json
+
+# Python
+ai_module/__pycache__/
+ai_module/venv/
+ai_module/*.pyc
+ai_module/.env
+
+# Flutter
+frontend_flutter/.dart_tool/
+frontend_flutter/.flutter-plugins
+frontend_flutter/.flutter-plugins-dependencies
+frontend_flutter/build/
+frontend_flutter/android/app/google-services.json
+frontend_flutter/ios/Runner/GoogleService-Info.plist
+
+# General
+.DS_Store
+*.log
